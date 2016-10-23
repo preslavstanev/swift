@@ -1,5 +1,5 @@
 
-package pkg2_datatypes_variables_operators_memory;
+package javaapplications;
 
 
 public class Task2_LeapYear {
